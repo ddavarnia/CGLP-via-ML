@@ -1,6 +1,6 @@
 # CGLP-via-ML
 
-This is the implementation used to produce the computational results in the following paper:
+This repository contains the source code and data to related to the computational results in the following paper:
 
 * A. Rajabalizadeh and D. Davarnia: **Solving a Class of Cut-Generating Linear Programs via Machine Learning**, *INFORMS Journal on Computing* (2023), To appear.
 
