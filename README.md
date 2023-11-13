@@ -30,5 +30,10 @@ In order to reproduce the results of CHM experiments, you would need to perform 
 
 # Instructions for B&B Folder:
 
-In this folder, there is no specific order for running the notebooks. Depending on the experiment, open the relevant notebook. After configuring the parameters, execute it, and the results will be saved in the same folder as the corresponding LP.
+In the folder `BB`, there is no specific order for running the notebooks. Depending on the experiment, open the relevant notebook. After configuring the parameters, execute it, and the results will be saved in the same folder as the corresponding LP. In addition to the folder `data` that contains the synthetic test instances (in LP format) for the B&B experiments, this folder contains following files:
+
+* `BB_Consistency`: This file includes the code to generate consistency cuts through the branch-and-bound process.
+* `ML_Consistency`: This file includes the code to use the ML approach to approximate the outcome of the CGLP through the branch-and-bound process. 
+
+
 
