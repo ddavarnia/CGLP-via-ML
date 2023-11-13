@@ -24,7 +24,7 @@ In order to reproduce the results of CHM experiments, you would need to perform 
 
 3. Generate test set: Generate a test set by using the `3_Generating_test_data.ipynb` notebook for a specific LP. The resulting test set will be saved in the same folder as the corresponding LP.
 
-4- Run classification algorithm. After saving training and test set, use `4_Machine_learning.ipynb` to classify your data. Feel free to change the parameters of each model. The result of each classification model with be saved in a seperate file.
+4. Run classification algorithm. After saving training and test set, use `4_Machine_learning.ipynb` to classify your data. Feel free to change the parameters of each model. The result of each classification model with be saved in a seperate file.
 
 
 # Instructions for B&B Folder:
